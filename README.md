@@ -1,11 +1,8 @@
+**Who am I?** 👨‍💻
 - software engineer passionate about mobile application development **Flutter**
-
 - Leader [codology](https://www.facebook.com/share/15YemKKTYc/)
-
-- Student union president [https://www.facebook.com/FCIARU.SU](https://www.facebook.com/FCIARU.SU)
-
+- Student union president @ [*FCI-ARU Student Union*](https://www.facebook.com/FCIARU.SU)
 - I’m currently learning **computer vision**
-
 - contact me **asmaaelkashef9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
