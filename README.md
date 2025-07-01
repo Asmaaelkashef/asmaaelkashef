@@ -15,14 +15,16 @@
 
 ## 📊 Stats
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Asmaaelkashef&theme=dark&mode=weekly&hide_current_streak=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Asmaaelkashef&theme=dark&mode=weekly&hide_current_streak=true" alt="Asmaaelkashef GitHub Streak"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asmaaelkashef&show_icons=true&theme=dark&locale=en&layout=compact"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmaaelkashef&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Asmaaelkashef&show_icons=true&theme=dark&locale=en"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asmaaelkashef&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
+
 
