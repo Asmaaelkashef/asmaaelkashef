@@ -1,10 +1,8 @@
-<h3 align="center">3rd Year Computer Science Student @ Arish University</h3>
-
-- I’m currently learning **computer vision**
-
 - Leader [codology](https://www.facebook.com/share/15YemKKTYc/)
 
-- Student union president [https://www.facebook.com/share/1AZiFyNoeL/](https://www.facebook.com/share/1AZiFyNoeL/)
+- Student union president [https://www.facebook.com/FCIARU.SU](https://www.facebook.com/FCIARU.SU)
+
+- I’m currently learning **computer vision**
 
 - contact me **asmaaelkashef9@gmail.com**
 
@@ -22,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaaelkashef&show_icons=true&locale=en" alt="asmaaelkashef" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaaelkashef&" alt="asmaaelkashef" /></p>
-
