@@ -17,7 +17,7 @@
 
 ## 📊 GitHub Stats
 
-<!-- Remove this if still not working -->
+
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Asmaaelkashef&theme=dark&mode=weekly&hide_current_streak=true" alt="GitHub Streak"/>
 </p> -->
