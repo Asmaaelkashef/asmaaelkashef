@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hello 👋</h1>
 
 **Who am I?** 👨‍💻
 - software engineer passionate about **mobile application** development using **Flutter**
