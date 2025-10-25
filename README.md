@@ -5,7 +5,7 @@
 - Flutter Developer experienced in building **user-friendly & responsive apps**  
 - Leader of [**Codology**](https://www.facebook.com/share/15YemKKTYc/) 
 - **President** of [*FCI-ARU Student Union*](https://www.facebook.com/FCIARU.SU) (2024/2025/2026)  
-- 💬 Speaker in several sessions introducing programming to beginners  
+- Speaker in several sessions introducing programming to beginners  
 - Love sharing knowledge, leading teams, and turning ideas into real projects 🚀  
 
 ---
@@ -23,12 +23,12 @@
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmaaelkashef9@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asmaaelkashef)  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Asmaaelkashef&theme=dark&mode=weekly" alt="Asmaaelkashef GitHub Streak"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmaaelkashef&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
+</p> -->
 
 
 
