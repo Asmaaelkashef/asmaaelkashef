@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Asmaa Elkashef</h1>
 
 **Who am I?** 👩‍💻  
-- Software Engineer passionate about **Mobile Application Development** and **Front-End Design**  
-- Flutter Developer experienced in building **user-friendly & responsive apps**  
+- Software Engineer passionate about **Mobile Application Development** 
+- Flutter Developer experienced in building **user-friendly apps**  
 - Leader of [**Codology**](https://www.facebook.com/share/15YemKKTYc/) 
 - **President** of [*FCI-ARU Student Union*](https://www.facebook.com/FCIARU.SU) (2024/2025/2026)  
 - Speaker in several sessions introducing programming to beginners  
