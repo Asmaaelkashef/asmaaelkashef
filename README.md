@@ -3,9 +3,8 @@
 **Who am I?** 👩‍💻  
 - Software Engineer passionate about **Mobile Application Development** and **Front-End Design**  
 - Flutter Developer experienced in building **user-friendly & responsive apps**  
-- Front-End Developer skilled in **HTML, CSS, and JavaScript**  
-- Leader of [**Codology**](https://www.facebook.com/share/15YemKKTYc/) – an initiative simplifying programming concepts in a fun and creative way  
-- **President** of [*FCI-ARU Student Union*](https://www.facebook.com/FCIARU.SU) (2024/2025)  
+- Leader of [**Codology**](https://www.facebook.com/share/15YemKKTYc/) 
+- **President** of [*FCI-ARU Student Union*](https://www.facebook.com/FCIARU.SU) (2024/2025/2026)  
 - 💬 Speaker in several sessions introducing programming to beginners  
 - Love sharing knowledge, leading teams, and turning ideas into real projects 🚀  
 
