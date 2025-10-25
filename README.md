@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 
 **Who am I?** 👨‍💻
-- software engineer passionate about **mobile application** development using **Flutter**
+- software engineer passionate about **mobile application** development
 - Leader [codology](https://www.facebook.com/share/15YemKKTYc/)
 - Student union president @ [*FCI-ARU Student Union*](https://www.facebook.com/FCIARU.SU)
 - currently learning **computer vision**
